@@ -1,0 +1,120 @@
+<style type="text/css">div.container {
+    width: 100%;
+    margin: 0px;
+    border: 0px solid gray;
+    line-height: 150%;
+}
+div.header {
+    padding: 0.5em;
+    color: white;
+    background-color: white;
+    clear: left;
+}
+div.footer {
+    padding: 0.5em;
+    color: white;
+    background-color: gray;
+    clear: left;
+}
+h1.header {
+    padding: 0;
+    margin: 0;
+}
+div.left {
+    float: left;
+    width: 250px;
+    margin: 0;
+    padding: 1em;
+}
+div.content {
+    margin-left: 190px;
+    border-left: 0px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 250px;
+    background-color: #f1f1f1;
+}
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+</style>
+<div id="cabecalho">
+<table border="0" cellpadding="0" cellspacing="0" height="50" style="background:url(http://www.fomento.pr.gov.br/arquivos/Image/wiki/back_cabec_meio.jpg) bottom repeat-x;" width="100%">
+	<tbody>
+		<tr>
+			<td align="left" height="50" width="500"><img border="0" height="45" src="http://www.fomento.pr.gov.br/arquivos/Image/wiki/back_cabec1.jpg" width="500" /></td>
+			<td align="right"><img border="0" height="45" src="http://www.fomento.pr.gov.br/arquivos/Image/wiki/back_cabec2.jpg" width="225" /></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<div class="container">
+<div class="container">
+<div class="left">
+<ul>
+	<li><font face="Calibri" size="3"><a class="active" href="#home">Como solicitar financiamento</a></font></li>
+	<li><font face="Calibri" size="3"><a href="#alvo">P&uacute;blico alvo</a></font></li>
+	<li><font face="Calibri" size="3"><a href="#itens">O que financia</a></font></li>
+	<li><font face="Calibri" size="3"><a href="#condicoes">Limites, Taxas e Prazos</a></font></li>
+	<li><font face="Calibri" size="3"><a href="#garantias">Garantias</a></font></li>
+	<li><font face="Calibri" size="3"><a href="#documentos">Documentos necess&aacute;rios</a></font></li>
+	<li><font face="Calibri" size="3"><a href="#faq">Perguntas Frequentes</a></font></li>
+</ul>
+</div>
+<font face="Calibri" size="3"><!-- CONTENT --> </font>
+
+<div class="content">
+<h2 style="text-align: center;"><font face="Calibri" size="3"><img alt="" src="http://www.fomento.pr.gov.br/arquivos/Image/solar_panel.png" style="width: 110px; height: 95px;" /><img alt="" src="http://www.fomento.pr.gov.br/arquivos/Image/eolic_energy.png" style="width: 130px; height: 95px;" /><img alt="" src="http://www.fomento.pr.gov.br/arquivos/Image/light_bulb.png" style="width: 105px; height: 95px;" /></font></h2>
+
+<h1 style="text-align: center;"><font face="Calibri" size="3"><span style="color:#000080;"><strong><span style="font-size: 26px;"><font face="Calibri">Como solicitar financiamento Fomento Energia</font></span></strong></span></font></h1>
+
+<p><font face="Calibri" size="3"><font face="Calibri" size="3"><font face="Calibri" size="3">A linha Fomento Energia &eacute; uma linha criada pela Fomento Paran&aacute;, com apoio institucional da Copel, que permite financiar projetos para aquisi&ccedil;&atilde;o e instala&ccedil;&atilde;o de equipamentos de gera&ccedil;&atilde;o de energia a partir de fontes renov&aacute;ceis (projetos de micro/minigera&ccedil;&atilde;o de energia), substitui&ccedil;&atilde;o de l&acirc;mpadas tradicionais por l&acirc;mpadas com tecnologia LED, ou ainda financiar equipamentos de maior efici&ecirc;ncia energ&eacute;tica.</font></font></font></p>
+
+<blockquote>
+<div style="background:#eee;border:1px solid #ccc;padding:5px 10px;"><font face="Calibri" size="3"><font face="Calibri" size="3"><font face="Calibri" size="3"><strong>IMPORTANTE</strong><br />
+A Fomento Paran&aacute; n&atilde;o credencia nem indica quaisquer consultores, pessoas f&iacute;sicas ou jur&iacute;dicas, como intermedi&aacute;rios para facilitar, agilizar ou aprovar opera&ccedil;&otilde;es de cr&eacute;dito com a pr&oacute;pria institui&ccedil;&atilde;o ou com institui&ccedil;&otilde;es das quais somos parceiros no repasse de recursos de financiamentos.</font></font></font></div>
+</blockquote>
+
+<h3 class="lead text-center"><font face="Calibri" size="3"><img alt="" src="http://www.fomento.pr.gov.br/arquivos/Image/workflow.png" style="width: 35px; height: 35px; margin: 1px 10px;" /><span style="font-size:18px;"><font face="Calibri"><font face="Calibri"><strong>Passo a passo simplificado do caminho para obter seu financiamento </strong></font></font></span></font></h3>
+
+<div class="row">
+<div class="col-12">
+<dl class="como-solicitar-list">
+	<dt><font face="Calibri" size="3"><img alt="" src="http://www.fomento.pr.gov.br/arquivos/Image/computer_2.png" style="width: 35px; height: 35px; margin: 1px 10px;" /> <font face="Calibri" size="3"><font face="Calibri" size="3"><span class="number-step">1</span> Fase Pedido Inicial para Enquadramento</font></font></font></dt>
+	<dd>
+	<p><font face="Calibri" size="3"><font face="Calibri" size="3"><font face="Calibri" size="3">Na tela de pedido inicial, preencha os valores dos itens a serem financiados, anexe os or&ccedil;amentos, parecer de acesso da Copel e os comprovantes de faturamento cont&aacute;bil da empresa dos &uacute;ltimos 24 meses.</font></font></font></p>
+	</dd>
+	<dt><font face="Calibri" size="3"><img alt="" src="http://www.fomento.pr.gov.br/arquivos/Image/computer_7.png" style="width: 35px; height: 35px; margin: 1px 10px;" /> <font face="Calibri" size="3"><font face="Calibri" size="3"><span class="number-step">2</span> Fase Dados Cadastrais</font></font></font></dt>
+	<dd>
+	<p><font face="Calibri" size="3"><font face="Calibri" size="3"><font face="Calibri" size="3">Ap&oacute;s o enquadramento da proposta pela Fomento Paran&aacute;, o sistema habilita o preenchimento dos dados cadastrais detalhados da empresa. Quando voc&ecirc; finalizar o preenchimento, anexe os documentos comprobat&oacute;rios de cadastro (veja rela&ccedil;&atilde;o aqui)</font></font></font></p>
+	</dd>
+	<dt><font face="Calibri" size="3"><img alt="" src="http://www.fomento.pr.gov.br/arquivos/Image/checklist.png" style="width: 35px; height: 35px; margin: 1px 10px;" /> <font face="Calibri" size="3"><font face="Calibri" size="3"><span class="number-step">3</span> Fase An&aacute;lise de Cr&eacute;dito</font></font></font></dt>
+	<dd>
+	<p><font face="Calibri" size="3"><font face="Calibri" size="3"><font face="Calibri" size="3">A &uacute;ltima fase &eacute; a de an&aacute;lise de cr&eacute;dito pela Fomento Paran&aacute; que, conforme as informa&ccedil;&otilde;es financeiras, cont&aacute;beis e de projeto avaliar&aacute; a concess&atilde;o de seu financiamento.</font></font></font></p>
+	</dd>
+</dl>
+</div>
+</div>
+</div>
+<font face="Calibri" size="3"> <font face="Calibri" size="3"><font face="Calibri" size="3"> </font></font> </font>
+
+<div class="footer"><font face="Calibri" size="3"><font face="Calibri" size="3"><font face="Calibri" size="3"><font face="Calibri" size="2">&copy; FOMENTO PARAN&Aacute; - Ag&ecirc;ncia de Fomento do Paran&aacute; S/A - Avenida Vicente Machado, 445 -3&ordm;, 4&ordm;, 5&ordm; e 6&ordm; andar, Centro - 80420-010 - Curitiba - PR - Central de Atendimento ao Cliente 41 3200-5900 </font></font></font></font></div>
+<font face="Calibri" size="3"> <font face="Calibri" size="3"><font face="Calibri" size="3"><font face="Calibri" size="2"> </font></font></font></font></div>
+</div>
