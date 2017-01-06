@@ -1,41 +1,123 @@
-
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Example of Bootstrap 3 Tabs with Icons</title>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<style type="text/css">
-    .bs-example{
-    	margin: 20px;
-    }
-	
+<style>
+div.container {
+    width: 100%;
+    margin: 0px;
+    border: 0px solid gray;
+    line-height: 150%;
+}
 
+div.header {
+    padding: 0.5em;
+    color: white;
+    background-color: white;
+    clear: left;
+}
+
+div.footer {
+    padding: 0.5em;
+    color: white;
+    background-color: gray;
+    clear: left;
+}
+
+h1.header {
+    padding: 0;
+    margin: 0;
+}
+
+div.left {
+    float: left;
+    width: 250px;
+    margin: 0;
+    padding: 1em;
+}
+
+div.content {
+    margin-left: 190px;
+    border-left: 0px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 250px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
 </style>
 </head>
 <body>
-	<h1 class="logo">Fomento Paraná</h1>
-									</div>
-			</span>
-		</div>
-				<div id="header-area">
-			<ul id="destaque_9" class="destaque">
-	<li class="d1"><a onclick="ga('send', 'event', 'Destaques', 'Português', {'page': 'http://www.fomento.pr.gov.br'});" href="http://www.fomento.pr.gov.br"><img src="http://www.fomento.pr.gov.br/modules/destaques/uploads/1338312604lang_pt.png" height="11" width="16" alt="Português" /></a></li>
-</ul>
-<iframe class="acessorestrito-if" scrolling="no" frameborder="no" height="35" width="620" src="http://fomentonet.pr.gov.br/fomentonet/acessar_site.do?action=acessoRestrito"></iframe> <div id="pesquisar-gsa">
 
-<label class="pesquisartext" for="inst-bar-pesquisar">Pesquisar</label>
-<div class="bs-example">
-	<ul class="nav nav-tabs">
-        <li class="active"><a href="#"><span class="glyphicon glyphicon-home"></span>  Home</a></li>
-        <li><a href="#"><span class="glyphicon glyphicon-user"></span> Profile</a></li>
-        <li><a href="#"><span class="glyphicon glyphicon-envelope"></span> Messages</a></li>
-    </ul>
+<div id='cabecalho'>
+  <table width='100%' height='50' border='0' cellpadding='0' cellspacing='0' style='background:url(http://www.fomento.pr.gov.br/arquivos/Image/wiki/back_cabec_meio.jpg) bottom repeat-x;'>
+  <tr>    
+  	<td width='500' height='50' align='left'>
+  	<img src="http://www.fomento.pr.gov.br/arquivos/Image/wiki/back_cabec1.jpg" width='500' height='45' border='0' /></a></td> 
+  	<td align='right'><img src="http://www.fomento.pr.gov.br/arquivos/Image/wiki/back_cabec2.jpg" width='225' height='45' border='0' /></td> 
+  </tr>
+  </table>
 </div>
+
+<div class="container">
+	<div class="container">
+  <div class="header"><h1 class="header"><img style='margin:15px;' alt="" border="0"></h1></div>
+<div class="left">
+	
+teste  
+
+  
+  
+  </div>
+   <!-- CONTENT -->
+  <div class="content">
+    <font size="3" face="Calibri">
+	    <p><h2>Perguntas Frequentes - Fomento <b>Energia</b></h2>
+	<p>A principal forma de acesso às linhas de financiamento da Desenvolve SP é pela internet. Por meio de um cadastro no <a href="http://fomentonet.pr.gov.br/fomentonet/loginExt.do?action=loadLogin" target="_blank"><em><strong>Acesso Cliente</strong></em></a>, um ambiente seguro, onde é possível solicitar o financiamento de acordo com sua necessidade, sem intermediários e sem precisar abrir conta bancária. Com seu login e senha você acompanha o pedido e fornece todos os documentos necessários para obter o crédito, tudo pela internet sem sair de seu escritório.</p>
+	<blockquote>
+	<p>IMPORTANTE <br />A Fomento Paraná não credencia nem indica quaisquer consultores, pessoas físicas ou jurídicas, como intermediários para facilitar, agilizar ou aprovar operações de crédito com a própria instituição
+ou com instituições das quais somos parceiros no repasse de recursos de financiamentos.</p>
+	</blockquote>
+	<h3 class="lead text-center"><strong>Passo a passo simplificado do caminho para obter seu financiamento </strong></h3>
+	    <div class="row">
+		<div class="col-12"><dl class="como-solicitar-list"><dt><span class="number-step">1</span> Faça o Cadastro</dt><dd>
+		<p>Entre em <a href="/negocios/online?nomeUsuario=&amp;submit=Entrar" target="_blank"><em><strong>Solicitações Online</strong></em></a> e escolha a opção <em>"Incluir novo usuário",</em> preencha o cadastro com os dados da empresa e seus contatos, informando um e-mail pelo qual você receberá as orientações para efetivar seu cadastro e gerar um número de usuário e senha.</p>
+		</dd><dt><span class="number-step">2</span> Faça seu pedido de financiamento</dt><dd>
+		<p>Após receber seus dados de acesso em seu e-mail, entre novamente no <a href="/negocios/online?nomeUsuario=&amp;submit=Entrar" target="_blank"><em><strong>Solicitações Online</strong></em></a> e faça seu pedido de financiamento, seguindo o passo a passo do manual, elaborado pela nossa equipe. <a href="/a2sitebox/uploads/files/pedido_de_financiamento_manual_do_usuario.pdf" target="_blank">Baixar o Manual (PDF)</a></p>
+		</dd><dt><span class="number-step">3</span> Acompanhe seu pedido</dt><dd>
+		<p>Após fazer o pedido de financiamento, você pode acompanhar o andamento de sua solicitação de crédito acessando o <a href="/negocios/online?nomeUsuario=&amp;submit=Entrar" target="_blank"><em><strong>Solicitações Online</strong></em></a> por meio de seus dados de acesso. <a href="/negocios/online?novo=S">Solicitar Financiamento</a></p>
+		</dd></dl>
+		</div>
+		<div class="col-12 centered">
+		<p>Você está pronto para investir em sua empresa? <a class="btn btn-green-lemon btn-large" href="/negocios/online?novo=S">Faça o pedido do financiamento</a></p>
+  		</div>
+	     </div>
+      </div>
+  <div class="footer">
+    <font size="2" face="Calibri">
+    © FOMENTO PARANÁ - Agência de Fomento do Paraná S/A    -    Avenida Vicente Machado, 445 -3º, 4º, 5º e 6º andar, Centro - 80420-010 - Curitiba - PR    - 
+   Central de Atendimento ao Cliente 41 3200-5900 <br /></div>
+</div>
+
 </body>
-</html>                                		
+</html>
